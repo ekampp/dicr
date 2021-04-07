@@ -1,0 +1,10 @@
+{
+  "name": "dicr",
+  "version": "0.0.1",
+  "description": "RPG dice roller",
+  "main": "index.js",
+  "repository": "https://github.com/ekampp/dicr",
+  "author": "Emil Kampp <emil@kampp.me>",
+  "license": "MIT",
+  "private": false
+}
